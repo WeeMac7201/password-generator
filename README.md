@@ -1,4 +1,4 @@
-# password-generator
+# WeeMac's Password Generator
 A simple password generator using Python and the PyQt5 Framework
 
 I made this password generator as a small project in my Python Learning process. The code was made utilising the knowledge provided by BroCode on Youtube.
